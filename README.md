@@ -18,4 +18,5 @@ Steps to reproduce the issue:
   ```
 
 Expected behavior: the application consumes the same message again and again.
+\
 Actual behavior: the application consumes all the messages.
